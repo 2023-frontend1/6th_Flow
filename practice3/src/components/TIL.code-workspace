@@ -1,0 +1,13 @@
+{
+  "folders": [
+	{
+		"path": "../../../.."
+	},
+	{
+		"path": "../../../../../Desktop/test/First_Repo"
+	}
+],
+  "settings": {
+    "liveServer.settings.multiRootWorkspaceName": "TIL"
+  }
+}
